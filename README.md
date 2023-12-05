@@ -7,3 +7,4 @@
 3. 수정작업 후 VSCODE에서 commit, commit 메시지 입력
 4. commit 하려면 터미널창에 입력  git config --global user.email "you@example.com"
   git config --global user.name "Your Name"
+5. 팀장한테 pull request -> New pull request -> Create pull request
